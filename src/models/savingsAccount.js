@@ -14,4 +14,4 @@ const savigsschema= new mongoose.Schema(
 )
 
 const Savings=mongoose.model("savings", savingsschema)
-module.exports= Saving;
+module.exports= Savings;
